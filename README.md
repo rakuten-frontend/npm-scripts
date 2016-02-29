@@ -66,7 +66,8 @@ public/styles/main.css
   See [npm-run-script document](https://docs.npmjs.com/cli/run-script) for more details.
 
 ## License
-Copyright (c) 2016 Hiroyuki Tanjo. Licensed under the [MIT License](LICENSE).
+Copyright (c) 2016 Rakuten, Inc.
+Licensed under the [MIT License](LICENSE).
 
 [mini]: scripts/mini/package.json?raw=true
 [lint]: scripts/lint/package.json?raw=true
