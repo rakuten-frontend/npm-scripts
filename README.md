@@ -1,5 +1,5 @@
-# npm build scripts
-> Simple build scripts for frontend development based on npm.
+# npm scripts
+> Simple build scripts for frontend development.
 
 ## Features
 - **[Browsersync](https://www.browsersync.io/)** : Keep multiple browsers & devices in sync when building websites.
